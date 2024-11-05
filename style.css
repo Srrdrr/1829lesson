@@ -1,0 +1,28 @@
+.black{
+    background-color: rgb(121, 121, 189);
+    text-align: center;
+    border: 5px solid red;
+    border-radius: 40px;
+}
+.ggg{
+    color: green;
+}
+.ddd{
+    color: red;
+}
+.vvv{
+    color: green;
+}
+.mmm{
+color: gray;
+}
+.sss{
+    color:yellow ;
+}
+
+.ccc{
+    background-color: red;
+}
+.hhh{
+    background-color: rgb(32, 201, 32);
+}
